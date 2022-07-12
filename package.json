@@ -1,6 +1,6 @@
 {
   "name": "@gemlink/glink-bitcore-cdy",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": {
     "name": "BitPay",
