@@ -1,6 +1,6 @@
 {
   "name": "@gemlink/glink-bitcore-cdy",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": {
     "name": "BitPay",
@@ -91,14 +91,13 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build": "github:bitpay/bitcore-build",
+    "bitcore-build": "github:gemlink/bitcore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "sinon": "^1.13.0"
   },
   "license": "MIT",
-  "gitHead": "500d2e5719a61e16cf8a06584886854f2b7fa79c",
   "bugs": {
     "url": "https://github.com/gemlink/glink-bitcore-cdy/issues"
   },
